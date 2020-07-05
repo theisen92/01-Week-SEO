@@ -1,5 +1,5 @@
 # Homework
-Homework for coding class
+Code Refactor
 <h3>List of changes</h3>
 <ul>
   <li>Changed the most of the div elements to semantic HTML elements</li>
