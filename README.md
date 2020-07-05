@@ -1,5 +1,4 @@
-# Homework
-Code Refactor
+# Code Refactor Homework
 <h3>List of changes</h3>
 <ul>
   <li>Changed the most of the div elements to semantic HTML elements</li>
